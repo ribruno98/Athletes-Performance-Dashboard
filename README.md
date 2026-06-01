@@ -29,4 +29,4 @@ Para o relatório funcionar bem, criei as relações entre tabelas e escrevi fó
 
 ---
 
-<iframe title="Atleta" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiZWMyYTU0ODEtOTU1Ny00M2JlLTg0ZDItNDA5ZmQ0Y2E5NmIzIiwidCI6IjY1OWNlMmI4LTA3MTQtNDE5OC04YzM4LWRjOWI2MGFhYmI1NyJ9" frameborder="0" allowFullScreen="true"></iframe>
+https://app.powerbi.com/view?r=eyJrIjoiZWMyYTU0ODEtOTU1Ny00M2JlLTg0ZDItNDA5ZmQ0Y2E5NmIzIiwidCI6IjY1OWNlMmI4LTA3MTQtNDE5OC04YzM4LWRjOWI2MGFhYmI1NyJ9
