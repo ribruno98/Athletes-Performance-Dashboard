@@ -22,3 +22,7 @@ Para o relatório funcionar bem, criei as relações entre tabelas e escrevi fó
 * Microsoft Power BI Desktop
 * Power Query (Processo de ETL)
 * Escrita de fórmulas em DAX
+
+---
+
+<img width="1160" height="640" alt="image" src="https://github.com/user-attachments/assets/984942cc-2a16-4e40-a9a5-97fe41de4ab0" />
